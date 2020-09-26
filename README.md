@@ -4,7 +4,7 @@
 - [revepattern@naver.com](mailto:revepattern@naver.com)
 - [! RevePattern#9999](https://discord.com)
 
-# Skils
+### Skils
 - Java
 - Python
 - PHP
