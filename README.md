@@ -6,6 +6,7 @@
 
 ### Skills
 - Java
+- JavaScript
 - Python
 - PHP
 - Notion
