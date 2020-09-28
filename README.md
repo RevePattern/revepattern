@@ -1,6 +1,6 @@
 ## Hi, i'm Student Developer RevePattern !
 
-📫 Connect with Me
+## Connect with Me
 - [revepattern@naver.com](mailto:revepattern@naver.com)
 - [! RevePattern#9999](https://discord.com)
 
