@@ -1,8 +1,8 @@
-## Hi, i'm Student Developer RevePattern !
+## Hi, i'm Developer RevePattern !
 
 ## Connect with Me
 - Email : [revepattern@naver.com](mailto:revepattern@naver.com)
-- Discord : [! RevePattern#0001](https://discord.com)
+- Discord : [! RevePattern#1004](https://discord.com)
 
 ### Skills
 - Java
