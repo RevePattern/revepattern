@@ -1,16 +1,12 @@
 ## Hi, i'm Developer RevePattern !
 
 ## Connect with Me
-- Email : [revepattern@naver.com](mailto:revepattern@naver.com)
-- Discord : [! RevePattern#1004](https://discord.com)
+- Email : [궁금하면500원](mailto:www.naver.com)
+- Discord : [궁금하면500원](https://discord.com)
 
 ### Skills
-- Java
-- JavaScript
-- Notion
 
 ### Studying Languages
-- JavaScript
 
 [![RevePattern's github stats](https://github-readme-stats.vercel.app/api?username=RevePattern&show_icons=true&hide_border=true&count_private=true)](https://github.com/RevePattern)
 
